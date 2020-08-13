@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there 👋 I'm Juan
+
+### About Me
+- Blog: [My Github Blog](https://edu-juan.github.io)
+
+---
+[![Edu-juan's github stats](https://github-readme-stats.vercel.app/api?username=edu-juan)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **edu-juan/edu-juan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
